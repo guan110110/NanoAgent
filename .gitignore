@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Output & Result files from demos
+*.txt
+*.csv
+*.log
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
